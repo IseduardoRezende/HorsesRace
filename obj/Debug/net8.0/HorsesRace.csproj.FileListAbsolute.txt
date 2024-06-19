@@ -1,0 +1,14 @@
+C:\Users\Fabiola\Desktop\CSharp\HorsesRace\HorsesRace\bin\Debug\net8.0\HorsesRace.exe
+C:\Users\Fabiola\Desktop\CSharp\HorsesRace\HorsesRace\bin\Debug\net8.0\HorsesRace.deps.json
+C:\Users\Fabiola\Desktop\CSharp\HorsesRace\HorsesRace\bin\Debug\net8.0\HorsesRace.runtimeconfig.json
+C:\Users\Fabiola\Desktop\CSharp\HorsesRace\HorsesRace\bin\Debug\net8.0\HorsesRace.dll
+C:\Users\Fabiola\Desktop\CSharp\HorsesRace\HorsesRace\bin\Debug\net8.0\HorsesRace.pdb
+C:\Users\Fabiola\Desktop\CSharp\HorsesRace\HorsesRace\obj\Debug\net8.0\HorsesRace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabiola\Desktop\CSharp\HorsesRace\HorsesRace\obj\Debug\net8.0\HorsesRace.AssemblyInfoInputs.cache
+C:\Users\Fabiola\Desktop\CSharp\HorsesRace\HorsesRace\obj\Debug\net8.0\HorsesRace.AssemblyInfo.cs
+C:\Users\Fabiola\Desktop\CSharp\HorsesRace\HorsesRace\obj\Debug\net8.0\HorsesRace.csproj.CoreCompileInputs.cache
+C:\Users\Fabiola\Desktop\CSharp\HorsesRace\HorsesRace\obj\Debug\net8.0\HorsesRace.dll
+C:\Users\Fabiola\Desktop\CSharp\HorsesRace\HorsesRace\obj\Debug\net8.0\refint\HorsesRace.dll
+C:\Users\Fabiola\Desktop\CSharp\HorsesRace\HorsesRace\obj\Debug\net8.0\HorsesRace.pdb
+C:\Users\Fabiola\Desktop\CSharp\HorsesRace\HorsesRace\obj\Debug\net8.0\HorsesRace.genruntimeconfig.cache
+C:\Users\Fabiola\Desktop\CSharp\HorsesRace\HorsesRace\obj\Debug\net8.0\ref\HorsesRace.dll
